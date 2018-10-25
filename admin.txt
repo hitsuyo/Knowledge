@@ -1,0 +1,47 @@
+https://www.wpbeginner.com/guides/
+https://www.wpzoom.com/plugins/what-is-woocommerce/
+
+https://successoceans.com/tung-buoc-xay-dung-website-wordpress-chi-trong-52-phut.html
+
+
+Id: sang.nguyen
+Password: v5)6V7c5tsZ*3j@vQuo4QLW7
+
+
+skype
+sang.nguyen@smnet.vn
+sang2018
+
+-----------------------------------
+
+----------------------------------
+localhost
+
+http://localhost/demo1/wp-admin/
+tansang
+ABC123
+----------------------------------
+
+---------------------------------
+gmail
+sangsmnetapi1@gmail.com
+sang03102018
+
+----------------------------
+
+sangsmnetapi2@yahoo.com
+admintest
+
+---------------------------
+Web client 1:
+Client ID:
+294864591392-fd96ubp66nnf0i4a2eoq5dvuv45appjh.apps.googleusercontent.com
+Client secret:
+f32umSVgG5LxI3rvrJCErJAd
+
+Web client 2:
+Client ID:
+294864591392-valfgnmbmu8dq2vbl2qeqvaotmm2acde.apps.googleusercontent.com
+Client secret:
+E7heoR6vY-Es64KOXy3aMW6h
+
