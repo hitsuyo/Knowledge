@@ -1,0 +1,8 @@
++ luong tinh theo so luong ngay lam thuc te trong thang
++ thu 7 lam nua buoi (tong la 2 ngay) -> -2 ngay cong
++ tru 4 ngay Chu nhat -> - 4 ngay cong
+
+tong cong: ngay cong = so ngay trong thang - 6
+
+thang 7 /2018: 3,854,167 (18.5 ngay)
+thang 10/2018: 5,000,000 (25 ngay)
