@@ -1,0 +1,22 @@
+
+
+// Edit 24-11-18
+add_filter( 'the_title', 'custom_posts_page_title', 10, 2 );
+
+function custom_posts_page_title( $title, $id ) {
+    // get the id of Posts page.
+    $posts_page = get_option( 'page_for_posts' );
+
+    // if we are not on an inner Posts page, abort.
+    if ( ! is_home() || is_front_page() ) {
+        return $title;
+    }
+
+    // if the current entry's ID matches with that of the Posts page..
+    if ( $id == $posts_page ) {
+        // set your new title here.
+        $title = 'Latest News';
+    }
+
+    return $title;
+}
