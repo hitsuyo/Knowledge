@@ -8,3 +8,4 @@ thang 7 /2018: 3,854,167 (18.5 ngay)
 thang 9
 thang 10/2018: 4,900,000 (24,5 ngay) 	-495,000 bao hiem
 thang 11/2018: 5,000,000		-495,000 bao hiem
+thang 12/2018: 5,000,000		-495,000 bao hiem
