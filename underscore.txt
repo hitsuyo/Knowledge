@@ -1,0 +1,2 @@
+template-tags.php :
+- Trang chua function hien thi post
