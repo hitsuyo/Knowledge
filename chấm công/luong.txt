@@ -1,4 +1,4 @@
-+ luong tinh theo so luong ngay lam thuc te trong thang
++ luong tinh theo so luong ngay lam thuc te trong thang (28, 30, 31)
 + thu 7 lam nua buoi (tong la 2 ngay) -> -2 ngay cong
 + tru 4 ngay Chu nhat -> - 4 ngay cong
 
@@ -8,4 +8,4 @@ thang 7 /2018: 3,854,167 (18.5 ngay)
 thang 9
 thang 10/2018: 4,900,000 (24,5 ngay) 	-495,000 bao hiem
 thang 11/2018: 5,000,000		-495,000 bao hiem
-thang 12/2018: 5,000,000		-495,000 bao hiem
+thang 12/2018: 5,000,000		-495,000 bao hiem -667,000 nghi phep
